@@ -44,7 +44,7 @@ The Mahakumbh is one of the largest religious gatherings in the world, attractin
 
 ### Database:
 
-- MongoDM (for data storage)
+- MongoDB (for data storage)
 - Redis (for caching real-time data)
 
 ### Deployment:
